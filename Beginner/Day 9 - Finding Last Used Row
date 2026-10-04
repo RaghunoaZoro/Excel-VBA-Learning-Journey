@@ -1,0 +1,11 @@
+## Day 9
+
+Topics Learned:
+- Last Used Row
+- Dynamic Data
+- Looping Through Real Data
+
+Lessons Learned:
+- Hard coded ranges are not scalable.
+- LastRow makes VBA dynamic.
+- Most reporting automation relies on LastRow.
