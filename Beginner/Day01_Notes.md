@@ -22,3 +22,14 @@ Lessons Learned:
 - Macros are procedures that automate tasks.
 - MsgBox can display information to users.
 - Workbook events execute automatically when triggered.
+
+
+### Additional Practice
+ 
+Curt Frye VBA Course
+ 
+- Subroutines
+- Functions
+- Comments
+- Running Macros
+- Recording Macros
