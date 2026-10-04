@@ -1,12 +1,21 @@
-### Day 2 - Variables
- 
+## Day 2
+
 Topics Learned
 - Variables
-- Declaring Variables
-- String Data Type
-- Integer Data Type
-- Variable Assignment
- 
-Workbooks
+- Declaration
+- Scope
+- Constants
+- Operators
+
+Files Added
 - Day02_01_Variables.xlsm
-- Day02_02_Declare.
+- Day02_02_Declare.xlsm
+- 02_03_Scope.xlsm
+- 02_04_Constants.xlsm
+- 02_05_Operators.xlsm
+
+Lessons Learned
+- Variables hold values in memory.
+- Scope controls where variables can be used.
+- Constants store fixed values.
+- Operators perform calculations and comparisons.
