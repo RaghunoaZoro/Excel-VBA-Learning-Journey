@@ -1,0 +1,17 @@
+## Day 4
+ 
+Topics Learned
+- Data Types
+- String
+- Integer
+- Double
+- Boolean
+ 
+Lessons Learned
+- Variables should use the correct data type.
+- String stores text.
+- Integer stores whole numbers.
+- Double stores decimals.
+ 
+Workbook:
+- Day04_DataTypes.xlsm
