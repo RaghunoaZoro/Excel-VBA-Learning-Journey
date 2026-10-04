@@ -1,5 +1,6 @@
 ## Day 1 - VBA Fundamentals
- 
+
+ 
 Completed:
 - Introduction to VBA
 - VBA Editor
@@ -7,12 +8,14 @@ Completed:
 - First Macro
 - MsgBox
 - Workbook BeforeClose Event
- 
+
+ 
 Files:
 - Day01_First Macro.xlsm
 - Day01_Modules.xlsm
 - Day01_MsgBox.xlsm
 - Day01_MsgBox_BeforeClose.xlsm
+
  
 Lessons Learned:
 - VBA code is stored in modules.
