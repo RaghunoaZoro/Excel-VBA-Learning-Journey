@@ -1,0 +1,11 @@
+## Day 8
+
+Topics Learned
+- FOR EACH Loops
+- Range Collections
+- Iterating Through Cells
+
+Lessons Learned
+- FOR EACH is easier when processing ranges.
+- VBA automatically moves through each cell.
+- FOR EACH is heavily used in Excel automation.
