@@ -1,0 +1,11 @@
+## Day 7
+
+Topics Learned:
+- AND
+- OR
+- Nested IF
+
+Lessons Learned:
+- AND requires all conditions to be True.
+- OR requires at least one condition to be True.
+- Nested IF allows complex decision making.
