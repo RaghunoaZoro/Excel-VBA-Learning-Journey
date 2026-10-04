@@ -1,18 +1,22 @@
 # Day 1 - VBA Foundations
  
-## Topics Learned
-- What is VBA
-- What is a Macro
-- VBA Editor
-- Modules
-- MsgBox
-- Range Object
- 
-## Key Shortcuts
-- ALT + F11 = Open VBA Editor
-- F5 = Run Macro
- 
-## Lessons Learned
-- VBA code is stored inside modules.
-- A Macro is a VBA procedure.
-- Range("A1") refers to cell A1.
+Completed:
+
+Introduction to VBA
+VBA Editor
+Modules
+First Macro
+MsgBox
+Workbook BeforeClose Event
+Files:
+
+Day01_First Macro.xlsm
+Day01_Modules.xlsm
+Day01_MsgBox.xlsm
+Day01_MsgBox_BeforeClose.xlsm
+Lessons Learned:
+
+VBA code is stored in modules.
+Macros are procedures that automate tasks.
+MsgBox can display information to users.
+Workbook events execute automatically when triggered.
