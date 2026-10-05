@@ -1,0 +1,11 @@
+## Day 11
+
+Topics Learned
+- Arrays from Worksheet Data
+- Variant Arrays
+- Memory Processing
+
+Lessons Learned
+- Arrays can load data directly from worksheets.
+- Arrays work best with loops.
+- VBA processes arrays in memory for speed.
