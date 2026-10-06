@@ -1,0 +1,12 @@
+## Day 17
+ 
+Topics Learned
+- Runtime Errors
+- Error Handling
+- Error Recovery
+ 
+Lessons Learned
+- Errors are normal.
+- Professional VBA code handles errors gracefully.
+- On Error GoTo is safer than blindly using Resume Next.
+``
