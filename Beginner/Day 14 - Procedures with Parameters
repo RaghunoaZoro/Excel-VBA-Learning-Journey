@@ -1,0 +1,11 @@
+## Day 14
+ 
+Topics Learned
+- Parameters
+- Passing Values
+- Reusable Procedures
+ 
+Lessons Learned
+- Parameters allow one procedure to work with many values.
+- Parameters reduce duplicate code.
+- Procedures become more flexible and maintainable.
