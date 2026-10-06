@@ -1,0 +1,10 @@
+## Day 16
+ 
+Topics Learned
+- Select Case
+- Multiple Decision Paths
+ 
+Lessons Learned
+- Select Case is cleaner than many ElseIf statements.
+- Each Case represents a possible value.
+- End Select closes the block.
